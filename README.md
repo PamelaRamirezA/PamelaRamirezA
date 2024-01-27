@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Pamela Ramirez
-- 👀 I’m interested in new challenges solving problems in the real life.
-- 🌱 I’m currently learning typescript and go.
-- 💞️ I’m looking to collaborate on projects based on typescript and go.
+- 👀 I’m interested in new challenges and solving problems in the real life.
+- 🌱 My tech stack: typescript, NodeJS, NestJS, MongoDB, Kafka, Redis, Firebase, GraphQL.
 
 <!---
 
